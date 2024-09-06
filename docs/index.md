@@ -1,0 +1,1 @@
+# Documentation for war_thunder_mod_installer project
